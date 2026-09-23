@@ -61,4 +61,4 @@ Is the left-pad package safe to use?
 
 ## License
 
-MIT
+[MIT](LICENSE).
