@@ -18,8 +18,8 @@
         "email": "andrew@nesbitt.io"
       },
       "license": "MIT",
-      "repository": "https://github.com/git-pkgs/skills",
-      "homepage": "https://github.com/git-pkgs/skills",
+      "repository": "https://github.com/git-pkgs/claude-plugin",
+      "homepage": "https://github.com/git-pkgs/claude-plugin",
       "category": "dependencies",
       "keywords": ["dependencies", "packages", "supply-chain", "security", "vulnerabilities", "sbom", "licenses", "git-pkgs", "brief", "forge", "pin", "capcheck", "gitlab", "gitea", "forgejo", "bitbucket", "gerrit", "tangled"]
     }

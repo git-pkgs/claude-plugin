@@ -7,7 +7,7 @@ A [Claude Code plugin](https://code.claude.com/docs/en/plugins) providing depend
 Add the marketplace and install the plugin:
 
 ```
-/plugin marketplace add git-pkgs/skills
+/plugin marketplace add git-pkgs/claude-plugin
 /plugin install git-pkgs@git-pkgs
 ```
 
